@@ -1,4 +1,4 @@
-By Yu,Runsheng @2013-4-8
+By Yu,Runsheng @2013-4-8 ：
 This is a simple note on "activity" project.
 
 This project is based on SpringMVC 3.0, employing MongoDB as the data store. HTML5 & Bootstrap & JQuery & Javascript are combined for the front end.
